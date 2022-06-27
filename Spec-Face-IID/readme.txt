@@ -1,1 +1,1 @@
-This folder will contain only the test data
+The data for testing purpose will be upload soon.
